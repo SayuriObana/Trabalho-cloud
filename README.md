@@ -1,9 +1,9 @@
 // Criar uma descrição do seu projeto
 
-git clone
+git clone https://github.com/SayuriObana/Trabalho-cloud.git
 
-cd docker Ray
+cd trabalho-cloud
 
- docker build -t api-node .      
+ docker build -t api .      
 
- docker run -p 3000:3000 api-node
+ docker run -p 3000:3000 api
