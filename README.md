@@ -1,28 +1,13 @@
 <h1 align="center">Trabalho - Arquitetura Cloud</h1>
 
 <p align="center">
-  API simples construída com <strong>Node.js</strong> e <strong>Express</strong> para gerenciamento de bonecas 🎀,
+  API simples construída com <strong>Node.js</strong> e <strong>Express</strong> para gerenciamento de bonecas,
   containerizada com <strong>Docker</strong> como parte da disciplina de Arquitetura Cloud.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square"/>
-  <img src="https://img.shields.io/badge/docker-suportado-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square"/>
-</p>
-
 ---
 
-## ✨ Tecnologias
-
-- 🟢 Node.js
-- ⚡ Express.js
-- 🐳 Docker
-- 💡 JavaScript
-
----
-
-## 📌 Funcionalidades
+##  Funcionalidades
 
 | Método | Rota       | Descrição                            |
 |--------|------------|----------------------------------------|
@@ -39,7 +24,7 @@
 
 ---
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 
 ### 1️⃣ Clone o repositório
 ```bash
@@ -66,30 +51,11 @@ docker run -p 3000:3000 api
 
 ---
 
-## 📁 Estrutura do Projeto
 
-```
-docker-ray/
-├── src/
-│   └── server.js
-├── Dockerfile
-├── package.json
-└── README.md
-```
+## Autora
 
----
-
-## 👩‍💻 Autora
-
-Feito com muito carinho por **Sayuri Obana** 💖  
+Rayani Sayuri  
 📚 1º Trabalho da disciplina **Arquitetura Cloud - 2025**
 
----
-
-## 📬 Contato
-
-Contribuições, sugestões e dúvidas são sempre bem-vindas!  
-Abra uma *issue* ou envie uma mensagem. ✉️😊
-```
 
 ---
